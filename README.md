@@ -13,18 +13,19 @@ The Prisoners' Activity Fund (4203) accounts for the operations of the commissar
 ### Enhanced 911 Funds : Indescript large budgetary allocations
 > The Enhanced 911 Fund (4204) was created with the FY 1996 budget to account for Enhanced 911 revenues and expenses. A fee of $0.95 per phone line was applied to the phone bills of Fayette County residents on January 1, 1996. This fee was imposed in advance of the system becoming operational in
 order to provide funding for database development.
-  - There was a substanial amount of funds appropriated/increased to *Professional Services Other*. The *Professional Services Other* funding exceeded 5x the budget allocation for current Civil Service Salaries for the year. 
 > Legislation restricts revenues from a tax or fee expressly levied to fund 911
 emergency services to be expended solely for 911 services. Since
 approximately 33 percent of the calls to Police and Fire for assistance are 911
 emergency calls, 33 percent of the calltaker/dispatcher personnel costs are
 charged to this fund. 
+- There was a substanial amount of funds appropriated/increased to *Professional Services Other*. The *Professional Services Other* funding exceeded 5x the budget allocation for current Civil Service Salaries for the year. 
 ### Approved for a Projected Change in Market Value of Assets for the City Employee Pension fund of -100.0%
+- Approved for a complete loss of the assets of the City Employee Pension Fund.
 ### Approved an Anticipated for a loss of 33% of employer paid contributions to the Police/Fire Safety Pension Fund
 - Firefighters and policeman will be more heavily burdened with the cost of their pension.
 - They will not have as much overall funding in the pension fund from the city, as per the 2010 budget projections that were approved.
 <Page 518> : ()
 
-Expanding FBI Investigation http://www.politicspa.com/fbi-investigation-of-seth-williams-expands/78079/
+[Expanding FBI Investigation] (http://www.politicspa.com/fbi-investigation-of-seth-williams-expands/78079/)
 
-Lexington, Kentucky Budget 2010 https://www.lexingtonky.gov/sites/default/files/2016-08/FY%202010%20Adopted%20Budget.pdf
+[Lexington, Kentucky Budget 2010] (https://www.lexingtonky.gov/sites/default/files/2016-08/FY%202010%20Adopted%20Budget.pdf)
